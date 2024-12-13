@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+header{
+    background-color: black;
+}
+
+.navbar {
+
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 100px;
+    
+}
+
+.menu_list {
+    display: flex;
+    gap: 30px;
+}
+
+.menu_list>li {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+.mers{
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.menu_list>li>a {
+    color: white;
+}
+.berri{
+    width: 1239px;
+    margin: 0 auto;
+}
+.box-text{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+.bmw{
+    text-align: center;
+}
+
+.box1{
+    width: 393px;
+    height: 396px;
+}
+.berri{
+    width: 1239px;
+    margin: 0 auto;
+}
+.box-text{
+    text-align: center;
+}
+
+.bmw{
+    text-align: center;
+}
